@@ -1,8 +1,8 @@
 Metadata-Version: 1.1
 Name: stats-comp
-Version: 0.0.3
+Version: 1.0.0
 Summary: A package to explore and visualize huge data sets
-Home-page: https://github.com/Shreyanand/insights-ds-analysis-worker/statscomp
+Home-page: https://github.com/Shreyanand/stats_comp
 Author: Shrey
 Author-email: shrey.anand@ymail.com
 License: UNKNOWN

@@ -29,11 +29,11 @@ requirements = ['boto3',
 
 setuptools.setup(
     name="stats_comp",
-    version="0.0.3",
+    version="1.0.0",
     author="Shrey",
     author_email="shrey.anand@ymail.com",
     description="A package to explore and visualize huge data sets",
-    url='https://github.com/Shreyanand/insights-ds-analysis-worker/statscomp',
+    url='https://github.com/Shreyanand/stats_comp',
     packages=setuptools.find_packages(),
     install_requires=requirements,
     classifiers=[
